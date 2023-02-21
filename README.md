@@ -1,7 +1,7 @@
 # FakeNewsClassification-LSTM-RNN
 
 # Project Introduction:
-This binary classification model aims to identify if a news is fake or not based on the text present in the data set. 
+This binary classification model aims to identify if a news is fake or not based on the text present in the data set. The data has been gathered from Kaggle.
 
 # Text Pre-Processing:
 This involves following steps to deal with the text data
