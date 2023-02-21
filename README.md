@@ -15,5 +15,22 @@ This involves following steps to deal with the text data
   ## c) Stemming/Lemmatization
   Stemming and Lemmatization are used for reducing words into their base/root words. Stemming does it by removing suffixes and Lemmatization does it by reducing them into their dictionary base words.
 
-  ## d) Embedding Layer:
-  This layer is used to convert words into vectors for the model to learn. This layer is similar to Word2vec which preserves the semantic meaning.
+  ## d) One Hot Representation:
+  Here after defining the vocabulary size, it assigns indexes to all the unique words in the sentences
+  
+  ## e) Padding:
+  it is to make the length of all the sentences the same before passing them through the embedding layer
+  
+# Model Building:
+
+  ## a) Embedding Layer:
+  this is to convert words into vectors given feature representation.
+  
+  ## b) LSTM Layer:
+  That is to capture long term dependencies in the corpus to exploit relationships between events that occur   far apart in a sequence
+  
+# Model Training:
+  ## a) Train-Test Split
+  ## b) Traning the model
+  
+# Model Evaluation:
