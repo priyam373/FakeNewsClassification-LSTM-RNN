@@ -1,4 +1,4 @@
-# FakeNewsClassification-LSTMRNN
+# FakeNewsClassification-LSTM-RNN
 
 # Project Introduction:
 This binary classification model aims to identify if a news is fake or not based on the text present in the data set. 
