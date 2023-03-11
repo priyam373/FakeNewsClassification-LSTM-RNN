@@ -1,5 +1,9 @@
 # FakeNewsClassification-LSTM-RNN
 
+# RNN-vs-LSTM-RNN
+
+the biggest difference between RNN and LSTM RNN is the ability of LSTM RNN to capture long term dependency of the text which allows the network to predict the output accurately. the repeating modules in LSTM contains 3 gates called forget gate, input gate and output gate which are responisble for remembering only key information which can help the network predict the output.
+
 # Project Introduction:
 This binary classification model aims to identify if a news is fake or not based on the text present in the data set. The data has been gathered from Kaggle.
 
